@@ -5,6 +5,9 @@
 
 ## About
 
+learn.jquery.com が勉強になるので 日本語に翻訳してみました。プログラミングのノウハウを習得する事が目的ですので、原文のニュアンスが重要だと思い、翻訳に自信のない場所（ほどんどですが・・）は原文と併記しています。
+jquery の翻訳サイトは原文の更新が翻訳に反映されずに放置されているのをよく見ますが、原文の修正に追随しやすい形で翻訳を作成していく予定です。
+
 The goal of this site is twofold:
 
 1. To serve as a central, trustworthy, narrative compendium of information about how to use jQuery and JavaScript.

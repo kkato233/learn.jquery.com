@@ -1,4 +1,4 @@
----
+﻿---
 title:        Arrays
 level:        beginner
 source: http://jqfundamentals.com/legacy

@@ -124,9 +124,7 @@ The following example illustrates the click handling code discussed above, embed
 
 次の例は クリックハンドラ の 上記の discussed したコードが
 直接 HTML の `<body>` に埋め込まれている例です。
-
-勉強のための 注意、 
-
+勉強のための 注意。
 スクリプトファイルを別に作成して  `<script>` エレメントの `src` で ぺージに 読み込む方が よりベターです。
 
 ```

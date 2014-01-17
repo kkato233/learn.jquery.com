@@ -56,9 +56,9 @@ window.onload = function() {
 
 Unfortunately, the code doesn't run until all images are finished downloading, including banner ads. To run code as soon as the document is ready to be manipulated, jQuery has a statement known as the [ready event](http://api.jquery.com/ready/):
 
-このコードは すべての画像がダウンロード完了するまで 動作しません。
+あいにくですが、このコードは すべての画像がダウンロード完了するまで 動作しません。
 バナー広告の中にある画像なども・・。
-できるだけ すぐに (as soon as) ドキュメントが ready になってから manipulated するために
+できるだけ すぐに (as soon as) ドキュメントが ready になってから manipulated （操作する・扱う） するために
 jQuery は  [ready event](http://api.jquery.com/ready/): というよく知られた 関数を持っています。
 
 ```
